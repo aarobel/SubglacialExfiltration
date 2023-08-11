@@ -1,6 +1,7 @@
 numpy
 matplotlib
 Cartopy
+GDAL
 affine==2.3.0
 appnope==0.1.2
 argon2-cffi==21.3.0
@@ -35,7 +36,6 @@ fastjsonschema==2.15.1
 Fiona==1.8.22
 folium==0.14.0
 fonttools==4.25.0
-GDAL==3.0.2
 geopandas==0.12.2
 idna==3.4
 ipykernel==6.9.1
