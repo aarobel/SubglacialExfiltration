@@ -2,7 +2,6 @@ cartopy==0.22.0
 cmocean==v3.0.3
 geopandas==0.13.2
 matplotlib==3.7.1
-mpl_toolkits
 numpy==1.25.2
 rioxarray==0.15.0
 scipy==1.11.1
